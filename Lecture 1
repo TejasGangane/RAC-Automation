@@ -1,0 +1,5 @@
+Time constraints and complexity. How a good coder tries to solve a problem and reduce the time of execution. Also how to approach a problem from Brute Force to a most efficient solution.
+
+Time Complexity for Linear Equation: k^n …. where n is the order of equation.
+
+Time Complexity for Quadratic Equation: log(n)
