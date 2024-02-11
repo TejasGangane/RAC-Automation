@@ -12,6 +12,3 @@ JIOVIAN COURSES LINK :
 3)https://jovian.ml/aakashns/100-numpy-exercises
 
 4)https://www.kaggle.com/learn/python
-
-5)
-
